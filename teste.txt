@@ -1,0 +1,74 @@
+Blue Team, Red Team e Purple Team em Segurança Cibernética
+1. Blue Team (Defesa)
+Objetivo: Proteger sistemas, detectar e responder a ameaças.
+Áreas de Conhecimento:
+
+Monitoramento de redes (SIEM, IDS/IPS)
+
+Análise de logs e forense digital
+
+Resposta a incidentes (IR)
+
+Hardening de sistemas e aplicações
+
+Segurança de endpoints (EDR/XDR)
+
+Principais Ferramentas:
+
+SIEM: Splunk, IBM QRadar, Microsoft Sentinel
+
+EDR/XDR: CrowdStrike, Microsoft Defender, SentinelOne
+
+Análise Forense: Autopsy, FTK, Volatility
+
+IDS/IPS: Snort, Suricata, Zeek
+
+2. Red Team (Ataque Simulado)
+Objetivo: Simular invasões para testar defesas.
+Áreas de Conhecimento:
+
+Pentest (Web, Redes, APIs)
+
+Engenharia social (Phishing, OSINT)
+
+Exploração de vulnerabilidades (Zero-days, exploits)
+
+Evasão de segurança (AV/EDR bypass)
+
+Principais Ferramentas:
+
+Frameworks: Metasploit, Cobalt Strike, Empire
+
+Pentest: Burp Suite, Nmap, Nessus
+
+Eng. Social: SET (Social-Engineer Toolkit), GoPhish
+
+Evasão: Mimikatz, Covenant, Sliver
+
+3. Purple Team (Colaboração)
+Objetivo: Unir Red e Blue Teams para melhorar defesas.
+Áreas de Conhecimento:
+
+Análise de técnicas de ataque e defesa
+
+Desenvolvimento de detecções (rules, signatures)
+
+Treinamento em segurança (Threat Hunting)
+
+Principais Ferramentas:
+
+Simulação + Defesa: Caldera (MITRE ATT&CK), Atomic Red Team
+
+Automação: Ansible, PowerShell/Python para IR
+
+Threat Intelligence: MISP, ThreatFox
+
+Resumo:
+
+Blue Team = Defesa proativa.
+
+Red Team = Ataque controlado.
+
+Purple Team = Colaboração para evolução contínua.
+
+Cada equipe complementa a outra, fortalecendo a postura de segurança. 🔵🔴💜
